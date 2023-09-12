@@ -1,3 +1,3 @@
 # Audio Classification
-Audio Classification using CNN and MFCC
+Audio Classification using ANN and MFCC
 Dataset: UrbanSound8K 
